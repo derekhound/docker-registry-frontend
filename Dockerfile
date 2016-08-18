@@ -1,6 +1,7 @@
 FROM debian:jessie
 MAINTAINER "Konrad Kleine"
 
+ARG BASEPATH
 
 USER root
 
